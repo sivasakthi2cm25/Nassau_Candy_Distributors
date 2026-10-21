@@ -1,7 +1,6 @@
 # Nassau_Candy_Distributors
 Data Analytics project showcasing customer behaviour analysis using Python, SQL and Power BI
-# Nassau_Candy_distributor
-data analysis project showcasing behavior analysis using Python, SQL and power BI
+
 # Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor
 
 ## 📌 Project Overview
